@@ -14,7 +14,7 @@ return [
     'components' => [
         'last_updated' => 'Last updated :timestamp',
         'status'       => [
-            1 => 'Operational',
+            1 => 'CUSTOM UP',
             2 => 'Performance Issues',
             3 => 'Partial Outage',
             4 => 'Major Outage',
